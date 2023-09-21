@@ -4,7 +4,7 @@ function App() {
   const svg = document.getElementById('svg');
   let width, height, cx, cy;
 
-  let zoom = 200;
+  let zoom = 110;
   let vbOX = 0;
   let vbOY = 0;
 
